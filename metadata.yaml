@@ -1,0 +1,36 @@
+_repo: The-GraysonsA-Story-of-Illinois_34266
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Eggleston, Allegra
+    gutenberg_agent_id: '36910'
+    url: http://www.gutenberg.org/2009/agents/36910
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eggleston, Edward
+    birthdate: 1837
+    deathdate: 1902
+    gutenberg_agent_id: '3293'
+    url: http://www.gutenberg.org/2009/agents/3293
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Eggleston
+description: Published in 1881, this historical romance set in frontier Illinois features
+  a young Abraham Lincoln as a character and is based on the future president's successful
+  defense of an accused murderer.
+gutenberg_issued: '2010-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34266'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Fiction'
+- !lcsh 'Illinois -- Fiction'
+- !lcsh 'Presidents -- United States -- Fiction'
+title: 'The Graysons: A Story of Illinois'
+url: http://www.gutenberg.org/ebooks/34266
